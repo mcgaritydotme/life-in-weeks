@@ -42,3 +42,7 @@
 - class_name: "funemployed"
   element: "background-color"
   color_name: "white"
+# McG Classes
+- class_name: "virginia-beach"
+  element: "border"
+  color_name: "#cccccc"
