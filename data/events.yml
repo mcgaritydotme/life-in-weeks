@@ -2,11 +2,10 @@
 # The first event should be birth.
 # The date should match start_date in content/index.md.
 #
-"1973-11-30":
-    - headline: 🐣 I was born
-      description: Lorem ipsum
-      based: Virginia Beach
-      doing: I was tiny
+1973-11-30:
+   - headline: 🐣 I was born
+     based: Virginia Beach
+     doing: I was tiny
 
 "1980-09-01":
     - headline: "🖍️ Kindergarten"
