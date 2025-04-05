@@ -6,6 +6,9 @@
 # Convert based and doing class_name's to lower case and replace spaces with dashes
 # i.e., New York City becomes new-york-city
 #
+- class_name: "virginia-beach"
+  element: "border"
+  color_name: "#cccccc"
 - class_name: "brooklyn"
   element: "border"
   color_name: "#8eb2d6"
@@ -42,7 +45,3 @@
 - class_name: "funemployed"
   element: "background-color"
   color_name: "white"
-# McG Classes
-- class_name: "virginia-beach"
-  element: "border"
-  color_name: "#cccccc"
