@@ -54,6 +54,10 @@
    - headline: 🏹 Attended summer camp
      description: Camp Champions in Marble Falls, TX
      
+1986-07-01:
+   - headline: 🌎 Collected my first comic
+     description: "Man of Steel #1"
+
 1986-09-05:
    - headline: 📒 Started middle school
      association: Parkhill
@@ -78,7 +82,11 @@
 
 1991-02-10:
    - headline: 🎸 First concert
-     description: "Dallas stop on AC/DC's Razors Edge World Tour"
+     description: "AC/DC, Razors Edge World Tour, Reunion Areana, Dallas, TX"
+
+1992-02-15:
+   - headline: ⛧ First Rush concert
+     description: Roll The Bones Tour, Hemisfair Arena, San Antonio, TX
 
 1992-05-29:
    - headline: 🎓 Graduated
@@ -120,6 +128,18 @@
    - headline: 🐻 California road trip
      description: Drove 28 hours without stopping to hang with a friend during spring break
 
+1997-03-28:
+   - headline: 🎨 Passed my art review
+     deadline: Approved to graduate
+
+1997-07-31:
+   - headline: 🛸 Saw a UFO
+     deadline: Above Lake Murray, OK
+
+1998-03-26:
+   - headline: 🚮 Gave up on art
+     deadline: Decided to become a history teacher instead
+
 1998-05-16:
    - headline: 🎓 Graduated
      doing: Graduate student
@@ -141,7 +161,7 @@
 
 2000-08-04:
    - headline: ⬇️ Moved south
-     doing: Living
+     doing: Looking for a startup job
      association: my first apartment
      based: Austin
      
@@ -151,7 +171,7 @@
      
 2001-02-02:
    - headline: ⬆️ Moved back north
-     doing: Living
+     doing: Employed by Apex IT
      association: my next apartment
      based: Dallas
      description: "Picked my apartment unseen when I learned its number was #11111"
@@ -171,7 +191,11 @@
 2004-09-03:
    - headline: 💒 Married Jenn
      description: Eloped & got hitched at the Little White Wedding Chapel in Vegas
-     
+
+2006-02-01:
+   - headline: 💼 New job
+     doing: Employed by Perot Systems
+
 2006-04-04:
    - headline: 🇮🇳 India work trip
      description: Got very sick and boss kept adding weeks to my trip
@@ -185,15 +209,35 @@
 2009-01-10:
    - headline: 👦🏻 Zachary is born
      description: Holy shit, I'm a dad!
+
+2009-09-21:
+   - headline: 💼 New job
+     doing: Employed by Dell
      
 2011-12-27:
    - headline: 🧒🏻 Penelope is born
      description: HOLY SHIT, I'M A DAD!!
-     
+
+2013-02-28:
+   - headline: 💼 New job
+     doing: Employed by FPX
+
 2017-03-17:
    - headline: 💔 Lost my mom
      description: Mary Michael Hamilton McGarity (1943-2017) R.I.P.
+
+2018-04-01:
+   - headline: 💼 New job
+     doing: Employed by Armor
      
 2023-07-31:
    - headline: 💔 Lost my dad
      description: Noyce McGarity (1943-2023) R.I.P.
+
+2022-01-18:
+   - headline: 💼 New job
+     doing: Employed by Dasera
+
+2024-10-09:
+   - headline: 💼 New job
+     doing: Employed by Netskope
