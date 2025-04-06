@@ -11,26 +11,33 @@
    - headline: 🏄 Moved to California
      based: Cupertino
      description: Watched the 4th of July parade with my Uncle Bob
+     doing: Slightly larger
 
 1979-01-05:
    - headline: ❄️ Moved to Illinois
-     based: Chicago
+     based: Northbrook
+     description: Snowdrifts at least a story high on our first day!
+     doing: A big boy now
      
 1979-09-07:
    - headline: 🖍️ Started kindergarten
-     doing: Student
+     doing: Kindergartener
      association: Indian Ridge
      
 1980-09-05:
    - headline: 📓 Started elementary school
+     doing: Student
      
 1981-08-07:
    - headline: 🤠 Moved to Texas
      based: Dallas
+     description: Everything was bright-white and hot!
+     doing: Waiting to start school
+     association: Brentfield
      
 1981-09-04:
-   - headline: 📕 Started new school
-     association: Brentfield
+   - headline: 📕 Changed schools
+     doing: Student
      
 1986-09-05:
    - headline: 📒 Started middle school
@@ -38,9 +45,10 @@
      
 1988-09-17:
    - headline: 🥛 Dad sobers up
+     description: Visited him nearly every night to watch the Summer Olympics together!
      
 1989-01-06:
-   - headline: ⬅️ Moved west
+   - headline: ⬅️ Moved across town
      based: Southlake
      description: Lived in Southlake, but finished up school in Dallas
 
@@ -55,26 +63,38 @@
 
 1992-05-29:
    - headline: 🎓 Graduated
-     
+     doing: Living
+     description: SR92 rulez!
+     association: my parents' house
+
 1992-08-31:
    - headline: 🦅 Started college
      based: Denton
      association: North Texas
+     doing: College student
      
 1992-11-27:
-   - headline: 🏈 Watched Southlake gets revenge
-     description: Was in the audience for one of the greatest high school playoff games ever! https://www.wfaa.com/video/news/local/the-texas-high-school-football-game-theyre-still-talking-about-30-years-later/287-984ed55a-0108-40b0-a5ea-8e53f517eb0b
+   - headline: 🏈 Watched Southlake get revenge
+     description: Was in the stands for one of the greatest Texas H.S. playoff games ever!
+
+1994-11-30:
+   - headline: 🥃 Had my first drink
+     description: A Midori sour
 
 1998-05-16:
    - headline: 🎓 Graduated
+     doing: Graduate student
      
 1998-05-29:
    - headline: 🇬🇧 Visited England
      
 1998-06-12:
    - headline: ⚽️ 1998 World Cup
-     doing: vacation
      description: Lived two weeks in downtown Paris while following Team USA
+
+1998-06-26:
+   - headline: 👌🏻 Pierced my nipple
+     description: Paid for it with the last $50 to my name
 
 1999-06-04:
    - headline: 🏒 DAL over COL
@@ -82,37 +102,59 @@
 
 2000-08-04:
    - headline: ⬇️ Moved south
+     doing: Living
+     association: my first apartment
      based: Austin
      
 2000-12-11:
    - headline: 🇬🇧 Visited England again
+     description: Hung out with my best friend Jim and a bunch of Shakespeare scholars
      
 2001-02-02:
    - headline: ⬆️ Moved back north
+     doing: Living
+     association: my next apartment
      based: Dallas
+     description: "Picked my apartment unseen when I learned its number was #11111"
      
+2001-09-11:
+   - headline: 💔 9-11
+     description: Watched the 2nd plane hit live, spent the day locating travelling friends and donating blood
+
 2002-05-31:
    - headline: ⚽️ 2002 World Cup
-     doing: vacation
      description: Travelled between Korea & Japan while following Team USA
 
 2004-02-20:
    - headline: 👩🏻 First date with Jenn
+     description: Had sushi, then spent the evening browsing art at a local museum
      
 2004-09-03:
-   - headline: 💒 Married
+   - headline: 💒 Married Jenn
+     description: Eloped & got hitched at the Little White Wedding Chapel in Vegas
      
 2006-04-04:
    - headline: 🇮🇳 India work trip
+     description: Got very sick and boss kept adding weeks to my trip
+
+2007-06-01:
+   - headline: 🏡 Bought a house
+     based: McKinney
+     doing: Living
+     association: my house
      
 2009-01-10:
    - headline: 👦🏻 Zachary is born
+     description: Holy shit, I'm a dad!
      
 2011-12-27:
-   - headline: 🧒🏻 Penny is born
+   - headline: 🧒🏻 Penelope is born
+     description: HOLY SHIT, I'M A DAD!!
      
 2017-03-17:
-   - headline: 💔 Lost mom
+   - headline: 💔 Lost my mom
+     description: Mary Michael Hamilton McGarity (1943-2017) R.I.P.
      
 2023-07-31:
-   - headline: 💔 Dad died
+   - headline: 💔 Lost my dad
+     description: Noyce McGarity (1943-2023) R.I.P.
