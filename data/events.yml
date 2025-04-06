@@ -23,6 +23,10 @@
    - headline: 🖍️ Started kindergarten
      doing: Kindergartener
      association: Indian Ridge
+
+1980-08-01:
+   - headline: 🐴 Shepp Ranch vacation
+     description: Bonded with injured horse named Boise
      
 1980-09-05:
    - headline: 📓 Started elementary school
@@ -38,6 +42,17 @@
 1981-09-04:
    - headline: 📕 Changed schools
      doing: Student
+
+1985-04-30:
+   - headline: ⚜️ Arrow of Light
+
+1986-01-28:
+   - headline: 💔 Challenger disaster
+     description: Watched it live in Miss Blankenship's class
+
+1986-06-01:
+   - headline: 🏹 Attended summer camp
+     description: Camp Champions in Marble Falls, TX
      
 1986-09-05:
    - headline: 📒 Started middle school
@@ -61,6 +76,10 @@
    - headline: 🍕 First job
      description: Made and delivered pizzas
 
+1991-02-10:
+   - headline: 🎸 First concert
+     description: "Dallas stop on AC/DC's Razors Edge World Tour"
+
 1992-05-29:
    - headline: 🎓 Graduated
      doing: Living
@@ -80,6 +99,26 @@
 1994-11-30:
    - headline: 🥃 Had my first drink
      description: A Midori sour
+
+1995-09-16:
+   - headline: 🧑🏻‍🍳 Dad has best chili
+     description: Chili Appreciation Society International Men's state chili champion
+
+1995-10-03:
+   - headline: ⚖️ O.J. verdict
+     description: Watched live in a packed room with all my college friends
+
+1996-09-27:
+   - headline: 🫡 Saw Clinton speak
+     description: Speech at Sundance Square
+
+1996-12-19:
+   - headline: 🏛️ DC trip
+     description: Met my godparents as an adult for the first time
+
+1997-03-13:
+   - headline: 🐻 California road trip
+     description: Drove 28 hours without stopping to hang with a friend during spring break
 
 1998-05-16:
    - headline: 🎓 Graduated
